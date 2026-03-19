@@ -1,0 +1,4 @@
+Stock Portfolio Summary
+AAPL : 1 shares
+TSLA : 2 shares
+Total Investment: $680
